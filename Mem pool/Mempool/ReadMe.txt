@@ -1,0 +1,4 @@
+本实验，我实现了MyAllocator，并编写了自己的测试程序，我的myalloctor实现于MyAllocator.h中（包括类内函数）
+mytest.cpp是我编写的测试程序，而main.cpp是pta和钉钉群中的测试程序汇总，在main.cpp我定义了宏TEST_TYPE,设置为1运行钉钉群中的测试，设置为0运行pta中的测试
+我的mytest.cpp测试会打印不同resize和运行resize的次数下，std::allocator和myallocator的对比
+注：main.cpp和mytest.cpp中都有main函数，一次只能添加一个cpp进入源工程，该工程默认添加了mian.cpp,如要切换到，mytest.cpp,需要自行添加

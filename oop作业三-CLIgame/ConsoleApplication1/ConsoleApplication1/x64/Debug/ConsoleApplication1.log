@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(118,1): warning C4005: “ERROR”: 宏重定义
+D:\学业\大二下\oop\oop作业三\ConsoleApplication1\ConsoleApplication1\head.h(19): message : 参见“ERROR”的前一个定义
+D:\学业\大二下\oop\oop作业三\ConsoleApplication1\ConsoleApplication1\main.cpp(413,17): warning C4101: “distant2”: 未引用的局部变量
+D:\学业\大二下\oop\oop作业三\ConsoleApplication1\ConsoleApplication1\main.cpp(413,27): warning C4101: “distant3”: 未引用的局部变量
+D:\学业\大二下\oop\oop作业三\ConsoleApplication1\ConsoleApplication1\main.cpp(368): warning C4715: “Process”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> D:\学业\大二下\oop\oop作业三\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
